@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h2>Let's get started testing....!</h2>
+      <h2>salazr test</h2>
     </div>
 
   );
